@@ -2,10 +2,6 @@
 
 - 👀 I’m interested in Go, PHP, Rust.
 
-- 🌱 I’m currently learning Rust, Go(switching from PHP).
-
-- 💞️ I’m looking to collaborate with open source projects base on Go, Rust, PHP.
-
 - 📫 How to reach me: telegram @undefinedfunction
 
 
