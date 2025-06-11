@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Go, PHP, Rust.
 
-- 📫 How to reach me: telegram @undefinedfunction
+- 📫 How to reach me: telegram @oygenb
 
 
 <!---
